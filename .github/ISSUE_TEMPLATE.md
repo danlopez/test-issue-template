@@ -1,8 +1,8 @@
 **Pre-requisites**:
 
 **Steps to reproduce**:
-  1.
-  2.
+
+  1. [INSERT STEPS HERE]
 
 **Actual result**:
 
